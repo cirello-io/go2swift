@@ -1,0 +1,7 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+hello
+libgo2swift.dylib
+swift-from-go
